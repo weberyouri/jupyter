@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T11:49:12.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="m16fXXAc1_f4B5ZVAjEf" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T11:56:01.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="RLdTYKyncUAPW_qWw84o" version="14.9.4" type="github">
   <diagram id="KYERQ4GRX5PKQz7HwUbt" name="Page-1">
-    <mxGraphModel dx="1673" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,21 @@
         </mxCell>
         <mxCell id="RXo7EI_mPQgMOn4V_Jw_-4" value="Integration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;glass=0;fontSize=22;strokeColor=#6c8ebf;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="360" y="636" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RXo7EI_mPQgMOn4V_Jw_-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="789" y="487" width="280" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="RXo7EI_mPQgMOn4V_Jw_-6" value="&lt;b&gt;Should I test private methods?&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://stackoverflow.com/a/47401015&quot;&gt;https://stackoverflow.com/a/47401015&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;fontSize=14;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fillStyle=solid;" vertex="1" parent="RXo7EI_mPQgMOn4V_Jw_-13">
+          <mxGeometry x="15" y="32" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RXo7EI_mPQgMOn4V_Jw_-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;sketch=0;fontSize=14;strokeColor=#b85450;strokeWidth=2;gradientDirection=south;fillColor=#FF0000;" vertex="1" parent="RXo7EI_mPQgMOn4V_Jw_-13">
+          <mxGeometry x="127" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RXo7EI_mPQgMOn4V_Jw_-10" value="" style="endArrow=none;html=1;fontSize=14;strokeWidth=2;" edge="1" parent="RXo7EI_mPQgMOn4V_Jw_-13" target="RXo7EI_mPQgMOn4V_Jw_-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="40" as="sourcePoint" />
+            <mxPoint x="132" y="10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
